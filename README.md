@@ -1,6 +1,12 @@
 #### sreality api  
 
-test library for sreality.cz .. 
+test library for sreality.cz ..
+
+###### instalace  
+    ```
+    pip install git+git://github.com/hynek2001/sreality_lib_proj.git
+    ```
+     
 
 ##### hlavni funkce
 * dotaz na sreality  
