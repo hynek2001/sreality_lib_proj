@@ -10,8 +10,8 @@ import logging
 from logging import StreamHandler
 
 logger = logging.getLogger()
-logger.addHandler(StreamHandler())
-logger.setLevel(logging.ERROR)
+# logger.addHandler(StreamHandler())
+# logger.setLevel(logging.ERROR)
 
 
 
