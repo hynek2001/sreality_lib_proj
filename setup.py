@@ -6,5 +6,6 @@ setup(name='srealitylib',
       author='Hynek Los',
       author_email='hynek.los@gmail.com',
       url='https://divein.blog/',
-      packages=['requests'],
+      packages=['srealitylib'],
+      install_requires=['requests']
      )
