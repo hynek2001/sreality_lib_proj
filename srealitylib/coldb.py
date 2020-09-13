@@ -11,7 +11,7 @@ from logging import StreamHandler
 
 logger = logging.getLogger()
 logger.addHandler(StreamHandler())
-logger.setLevel(logging.DEBUG)
+logger.setLevel(logging.ERROR)
 
 
 
